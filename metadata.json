@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Bobroblox (Боброблокс)",
+  "description": "A Roblox-inspired platform for creators with 2D/3D support, Unity integration, and a dual-currency achievement system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
